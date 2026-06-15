@@ -1,0 +1,201 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="⭐ TELECENTRO ⭐",A24
+http://181.13.252.102:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="⭐ TELECENTRO ⭐",America
+http://45.5.151.62:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="https://television.com.ar/wp-content/uploads/2025/11/Arg-12.jpg" group-title="⭐ TELECENTRO ⭐",Ar|12
+http://190.7.19.197:232/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" group-title="⭐ TELECENTRO ⭐",AMC
+http://45.5.151.62:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png" group-title="⭐ TELECENTRO ⭐",AXN
+http://45.5.151.62:8000/play/a07h/index.m3u8
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/adult-swim@2x.png" group-title="⭐ TELECENTRO ⭐",Adult Swin
+http://190.238.43.117:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png" group-title="⭐ TELECENTRO ⭐",A&E
+http://190.238.43.117:8000/play/a01a/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" group-title="⭐ TELECENTRO ⭐",Animal Planet
+http://45.5.151.62:8000/play/a07g/index.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/w1200-h675-p-k-no-nu/maxresdefault.jpg" group-title="⭐ TELECENTRO ⭐",AMC Series
+http://200.115.96.61:9090/play/a0dj/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="⭐ TELECENTRO ⭐",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 group-title="Sans groupe",Absinthe TV
+https://amg26268-amg26268c5-freelivesports-emea-8263.playouts.now.amagi.tv/playlist/amg26268-sportsstudio-ssabsynthetv-freelivesportsemea/playlist.m3u8?channel_name=Absinthe%20TV&content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ic=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 group-title="Sans groupe",ACC Digital Network
+https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8?channel_name=ACCDN&content_genre=Basketball%2CSport&ic=IAB17%2CIAB17-26&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 group-title="Sans groupe",ACE TV
+https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8?channel_name=ACE%20TV&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 group-title="Sans groupe",Action Plus
+https://amg02042-ottstudio-amg02042c4-ottstudios-northamerica-1765.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-actionplus-ottstudiosnorthamerica/playlist.m3u8?channel_name=Action%20Plus&content_genre=Entertainment&ic=IAB1-7&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 group-title="Sans groupe",Adventure Zone Sports Network
+https://onestudio.telos.indicue.com/stream.m3u8?m=aHR0cHM6Ly9hZHZlbnR1cmV6b25lbGl2ZS5iLWNkbi5uZXQvc3RyZWFtcy9hZHZlbnR1cmUtem9uZS1nbG9iYWwvcGxheWxpc3QubTN1OA==&aid=3827&channel_name=Adventure%20Zone%20Sports%20Network&content_genre=BMX%2CMTB%2CSkiing%2CSnow%20Sports%2CSport%2CSurfing&ic=IAB17%2CIAB17-21%2CIAB17-35%2CIAB17-36%2CIAB17-37&isNoSlate=true&adInterval=420&adDuration=150&preroll=0&site_full_url=https%3A%2F%2Fwatch.freelivesports.tv&ua=[UA]&uip=[IP]&device_model=[DEVICE_MODEL]&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&language=en&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 group-title="Sans groupe",American Stories Network
+https://linear-1016.frequency.stream/dist/freelivesports/1016/hls/master/playlist.m3u8?ads.channel_name=American%20Stories%20Network&ads.content_genre=Fishing%2CHunting%2CSport&ads.iab_category=IAB17%2CIAB17-13%2CIAB17-18%2CIAB17-32&provider=FreeLiveSports&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[CONSENT_STRING]&ads.coppa=0&ads.content_livestream=1&ads.language=en&ads.content_url=[REF]&ads.lmt=[LAT]&ads.device_id=[DEVICE_ID]
+#EXTINF:-1 group-title="Sans groupe",AYM Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13843&avod=1&content_dist_name=freelivesports&content_channel=AYM%20Sports&channel_name=AYM%20Sports&content_genre=Soccer%2CBoxing%2CWrestling%2CBaseball%2CBasketball%2CAmericanFootball%2CVolleyball%2CMotorsports%2CCollegeSports%2CMMA%2CLatamSports%2CSport&ic=IAB17-18%2CIAB17-2%2CIAB17-19%2CIAB17-1%2CIAB17-3%2CIAB17-7%2CIAB17-17%2CIAB17-8%2CIAB17-11%2CIAB17-12%2CIAB17&rating=PG&preferred_language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&consent=[CONSENT_STRING]&coppa=0&livestream=1&content_url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN 1
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327914
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN 2
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327915
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN 3
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327916
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN PREMIUM
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327917
+#EXTINF:-1 group-title="Sans groupe",ARG TNT SPORTS
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327919
+#EXTINF:-1 group-title="Sans groupe",ARG TNT SPORTS
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327920
+#EXTINF:-1 group-title="Sans groupe",ARG FOX SPORT 1
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327908
+#EXTINF:-1 group-title="Sans groupe",ARG FOX SPORT 2
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327908
+#EXTINF:-1 group-title="Sans groupe",ARG FOX SPORT 3
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327910
+#EXTINF:-1 group-title="Sans groupe",ARG FOX SPORT PREMIUM
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/327911
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN PREMIUM OP2
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/377719
+#EXTINF:-1 group-title="Sans groupe",ARG deport tv
+http://rlatinop.com:8880/josesosa547tv/FFy5GgKfmFgh/397594
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81262.ts
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN 2 SD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81259.ts
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN 2 HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81258.ts
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN PREMIUM HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81254.ts
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN PREMIUM FHD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/149087.ts
+#EXTINF:-1 group-title="Sans groupe",ARG FOX SPORTS 1 HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/50506.ts
+#EXTINF:-1 group-title="Sans groupe",ARG FOX SPORTS 2 HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/50507.ts
+#EXTINF:-1 group-title="Sans groupe",ARG FOX SPORTS 3 SD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/50509.ts
+#EXTINF:-1 group-title="Sans groupe",ARG FOX SPORTS 3 HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/50508.ts
+#EXTINF:-1 group-title="Sans groupe",ARG TNT SPORTS HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81251.ts
+#EXTINF:-1 group-title="Sans groupe",ARG TYC SPORTS SD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81253.ts
+#EXTINF:-1 group-title="Sans groupe",ARG TNT SPORTS FHD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81284.ts
+#EXTINF:-1 group-title="Sans groupe",ARG TYC SPORTS HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
+#EXTINF:-1 group-title="Sans groupe",ARG TYC SPORTS INTERNACIONAL
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81538.ts
+#EXTINF:-1 group-title="Sans groupe",ARG DEPORTV HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81539.ts
+#EXTINF:-1 group-title="Sans groupe",ARG TNT SPORTS
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/361001.ts
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306497.ts
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN SD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306498.ts
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN 2 HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306486.ts
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN 2 SD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/306487.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 2 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78379.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 3 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/89342.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 4 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78381.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 5 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78382.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 6 HD
+http://foxbleu-cdn.com/live/e8:aa:cb:c4:bf:92/aMzpeeG/78383.ts
+#EXTINF:-1 group-title="Sans groupe",Astro Bein Sports 1
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein1
+#EXTINF:-1 group-title="Sans groupe",Astro Bein Sports 2
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2
+#EXTINF:-1 group-title="Sans groupe",Astro Bein Sports 3
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein3
+#EXTINF:-1 group-title="Sans groupe",Astro Bein Sports 4
+https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein4
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 1 AU
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 2 AU
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 3 AU
+https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 1 Turkey
+https://andro.226503.xyz/checklist/androstreamlivebiraz1.m3u8
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 2 Turkey
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs2.m3u8
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 3 Turkey
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs3.m3u8
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 4 Turkey
+https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs4.m3u8
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 5 Turkey
+https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 3 France (Alt)
+http://99.27.51.147:8080/BeinSport3/mpegts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 3 France (Alt2)
+http://145.239.5.177/559/mpegts
+#EXTINF:-1 group-title="Sans groupe",AYM Sports
+https://aym-as.otteravision.com/aym/as/as.m3u8
+#EXTINF:-1 group-title="Sans groupe",5
+http://45.5.119.43:4000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",Azteca Deportes Premium
+https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=43f1fb5e-5d7f-11ef-86b8-365f5985939b
+#EXTINF:-1 group-title="Sans groupe",ACC Network
+https://s.rocketdns.info/live/superreal1/superreal1/5287.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS
+https://s.rocketdns.info/live/superreal1/superreal1/3612.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 1 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/714411.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 1 Britsh
+https://s.rocketdns.info/live/superreal1/superreal1/659436.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 2 Britsh
+https://s.rocketdns.info/live/superreal1/superreal1/659437.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 3 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659429.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 4 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659430.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 5 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659431.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 6 Qatar
+https://s.rocketdns.info/live/superreal1/superreal1/659432.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 1 France
+https://s.rocketdns.info/live/superreal1/superreal1/659439.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 2 France
+https://s.rocketdns.info/live/superreal1/superreal1/659440.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 3 France
+https://s.rocketdns.info/live/superreal1/superreal1/659441.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 3
+https://s.rocketdns.info/live/superreal1/superreal1/5308.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 4
+https://s.rocketdns.info/live/superreal1/superreal1/5313.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 5
+https://s.rocketdns.info/live/superreal1/superreal1/5312.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 6
+https://s.rocketdns.info/live/superreal1/superreal1/5311.ts
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 7
+https://s.rocketdns.info/live/superreal1/superreal1/5310.ts
+#EXTINF:-1 group-title="Sans groupe",AZTECA uno
+http://45.189.62.33:8002/play/a0cc/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",Azteca 7a
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 1 AU
+https://wahyu1ptv.pages.dev/AstroBein2.m3u8
+#EXTINF:-1 group-title="Sans groupe",BEIN SPORTS 1 AU
+https://wahyu1ptv.pages.dev/AstroBein3.m3u8
+#EXTINF:-1 group-title="Sans groupe",5 SPORT 🇮🇱
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",BEIN 3 🇫🇷
+http://145.239.5.177/559/mpegts
+#EXTINF:-1 group-title="Sans groupe",ARENA SPORT 1 🇨🇿
+http://88.212.15.19/live/test_arenasport/playlist.m3u8
+#EXTINF:-1 group-title="Sans groupe",ARENA SPORT 2 🇨🇿
+http://88.212.15.19/live/test_arenasport_dva/playlist.m3u8
+#EXTINF:-1 group-title="Sans groupe",2TV Sport 🇳🇴
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",5 SPORT 🇮🇱
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2558/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",Azteca Deportes 🇲🇽
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Sans groupe",AYM SPORT 🇺🇸
+https://aym-as.otteravision.com/aym/as/as_720p_high.m3u8

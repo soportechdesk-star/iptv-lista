@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="⭐ FLOW ⭐",America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="⭐ FLOW ⭐",Telefe
+http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="⭐ FLOW ⭐",El Trece
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="⭐ FLOW ⭐",El Nueve
+http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="⭐ FLOW ⭐",A24
+http://181.13.252.102:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="⭐ FLOW ⭐",C5N
+http://190.7.19.197:232/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="⭐ FLOW ⭐",Canal 26
+http://181.13.252.102:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="⭐ FLOW ⭐",La Nación +
+http://181.13.252.102:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="⭐ FLOW ⭐",Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="⭐ TELECENTRO ⭐",TN
+http://181.13.252.102:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="⭐ TELECENTRO ⭐",TV Pública
+http://190.7.19.197:232/play/a03c/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sans groupe",Dazn 2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sans groupe",DSports (Opción 1)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sans groupe",FOX Sports 2
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sans groupe",Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sans groupe",Fox Soccer Plus
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sans groupe",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sans groupe",TUDN [2]
+https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" group-title="Sans groupe",TVRI Sport (720p)
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_1500000=10003-mp4a_96000=20002.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Sans groupe",ARG ESPN PREMIUM FHD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/149087.ts
+#EXTINF:-1 group-title="Sans groupe",ARG TNT SPORTS FHD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81284.ts
+#EXTINF:-1 group-title="Sans groupe",ARG FOX SPORTS 1 HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/50506.ts
+#EXTINF:-1 group-title="Sans groupe",ARG TYC SPORTS INTERNACIONAL
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81538.ts
+#EXTINF:-1 group-title="Sans groupe",Azteca Deportes 🇲🇽
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65cf60d166eec80008724e6flivestitch/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 group-title="Sans groupe",ARG DEPORTV HD
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81539.ts
+
+#EXTM3U
+#EXTINF:-1 group-title="Sans groupe",CLARO SPORTS HD
+https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/103.ts
+#EXTINF:-1 group-title="Sans groupe",DAZN 1
+http://znty.dyndns.org:5010/hls/eleven1.m3u8
+#EXTINF:-1 group-title="Sans groupe",DEPORTE - CLARO SPORTS
+https://mx1.gt-app.com/82/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="Sans groupe",DEPORTE - ESPN 2 SUR
+https://mx1.gt-app.com/79/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="Sans groupe",DEPORTE - FIFA+ Hispanic America
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 group-title="Sans groupe",DEPORTE - ESPN 1 MX
+https://mx1.gt-app.com/41/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+
+#EXTM3U
+#EXTINF:-1 group-title="Sans groupe",DEPORTE - FOX SPORTS 1 MX
+https://mx1.gt-app.com/30/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="Sans groupe",DEPORTE - WIN SPORTS +
+https://mx1.gt-app.com/66/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="Sans groupe",DEPORTE - LA LIGA
+https://mx1.gt-app.com/75/sFdTrWkjiPvlWmNyZsi.m3u8|user-agent=vLjiLpXkrStmOpQxUrijBfXkYtMnFdR
+#EXTINF:-1 group-title="Sans groupe",DEPORTE - Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+#EXTINF:-1 group-title="Sans groupe",DIRECTV SPORTS
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",DEPORTE - SKY SPORTS
+http://177.10.184.193:8000/play/a0eh/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",ESPN 2 🇦🇷
+http://191.97.49.82:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",DSPORTS 1 🇦🇷
+http://190.117.20.37:8000/play/a08d/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Sans groupe",Eurosport (ESP)
+http://latinapro.net:25461/YP9tF7K0Pj/EaFdET2CMh/143.ts
+#EXTINF:-1 group-title="Sans groupe",FIFA+
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Sans groupe",Fox Sports 1 Argentina
+https://s.rocketdns.info/live/superreal1/superreal1/2882.ts
+#EXTINF:-1 group-title="Sans groupe",REAL MADRID TV 🇪🇸
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="Sans groupe",Movistar Deportes
+http://38.226.210.46:8000/play/a06d/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",La liga Inside 🇪🇸
+https://is.gd/P9HFAg?LaligaInside.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Sans groupe",SKY SPORT LALIGA 🇲🇽
+http://179.60.224.196:8000/play/a0i7/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",TIGO Sports
+http://45.5.119.43:4000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",Sky Sport BUNDESLIGA HD
+http://daleplaytv.vip:80//live/123MMM/654321/406840.ts
+#EXTINF:-1 group-title="Sans groupe",SKY SPORTS Premier League
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2181.ts
+#EXTINF:-1 group-title="Sans groupe",TNT Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",TELEMUNDO 🇲🇽
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Sans groupe",ZIGGO SPORT 2 HD 🇳🇱
+http://wo0dyefk.dienalt.org/iptv/DV3AC2Q6YSR9XE/2561/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",TV2 🇪🇸
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF:-1 group-title="Sans groupe",TyC Sports ARG
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 group-title="Sans groupe",TUDN MX
+http://daleplaytv.vip:80//live/123MMM/654321/314974.ts
+#EXTINF:-1 group-title="Sans groupe",WIN Sports (Peru) (🇵🇪)
+http://200.69.92.222:8000/play/a04r/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 group-title="Sans groupe",🇪🇸 REAL MADRID TV - Español (Oficial)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8

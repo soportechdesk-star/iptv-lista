@@ -1,0 +1,435 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="⭐ DIRECTV ⭐", America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="⭐ DIRECTV ⭐", TV Publica
+http://190.7.19.197:232/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="⭐ DIRECTV ⭐", El Nueve
+http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="⭐ DIRECTV ⭐", Telefe
+http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="⭐ DIRECTV ⭐", El Trece
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="⭐ DIRECTV ⭐", La Nación +
+http://181.13.252.102:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="⭐ DIRECTV ⭐", C5N
+http://190.7.19.197:232/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="⭐ DIRECTV ⭐", A24
+http://181.13.252.102:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="⭐ DIRECTV ⭐", Canal 26
+http://181.13.252.102:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="⭐ DIRECTV ⭐", Rural TV
+http://181.13.252.102:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="⭐ FLOW ⭐", America
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="⭐ FLOW ⭐", Telefe
+http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="⭐ FLOW ⭐", El Trece
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="⭐ FLOW ⭐", El Nueve
+http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="⭐ FLOW ⭐", A24
+http://181.13.252.102:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="⭐ FLOW ⭐", C5N
+http://190.7.19.197:232/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="⭐ FLOW ⭐", Canal 26
+http://181.13.252.102:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="⭐ FLOW ⭐", La Nación +
+http://181.13.252.102:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="⭐ FLOW ⭐", Rural TV
+http://181.13.252.102:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="⭐ FLOW ⭐", Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="⭐ TELECENTRO ⭐", La Nación +
+http://181.13.252.102:8000/play/a01s/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="⭐ TELECENTRO ⭐", TN
+http://181.13.252.102:8000/play/a058/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="⭐ TELECENTRO ⭐", A24
+http://181.13.252.102:8000/play/a01o/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="⭐ TELECENTRO ⭐", C5N
+http://190.7.19.197:232/play/a040/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="⭐ TELECENTRO ⭐", El Nueve
+http://181.13.252.102:8000/play/a04h/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="⭐ TELECENTRO ⭐", TV Pública
+http://190.7.19.197:232/play/a03c/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="⭐ TELECENTRO ⭐", Telefe
+http://190.7.19.197:232/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="⭐ TELECENTRO ⭐", Canal 26
+http://181.13.252.102:8000/play/a01r/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="⭐ TELECENTRO ⭐", El Trece
+http://181.13.252.102:8000/play/a0bg/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="⭐ TELECENTRO ⭐", America
+http://45.5.151.62:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="https://telecentro.com.ar/img/cm/channels/cnn@2x.png" group-title="⭐ TELECENTRO ⭐", CNN
+http://200.115.120.1:8000/play/ca060/index.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/607708464257896448/1JrRLGLc_400x400.jpg" group-title="⭐ TELECENTRO ⭐", Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kRrQVEhftUU/V-_RmD35S8I/AAAAAAAABB0/3CbSCG5SblctjXDXlMkNc8V0bZHVAfFZACLcB/s1600/canalrural-2016.png" group-title="⭐ TELECENTRO ⭐", Rural TV
+http://181.13.252.102:8000/play/a02f/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 1)
+https://s2.bufaloweb.com/bufalo9/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 2)
+https://s2.bufaloweb.com/bufalo10/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 3)
+https://s2.bufaloweb.com/bufalo11/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 4)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Mundial (Opción 5)
+https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", Telemundo 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", TUDN [2]
+https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 1)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 2)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 3)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 4)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 5)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 6)
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 7)
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 8)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 9)
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 10)
+http://38.226.210.46:8000/play/A008/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 11)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 12)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 13)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 14)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 15)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 16)
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 17)
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 18)
+http://190.117.20.37:8000/play/a08d/index.m3u
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 19)
+https://s2.bufaloweb.com/bufalo9/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 20)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 21)
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 22)
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports (Opción 23)
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports 2
+http://neoyjpw.top:8080/01691613063102/4f503120a59b/58866
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png", DSports AR
+http://neoyjpw.top:8080/01691613063102/4f503120a59b/18393
+
+#EXTM3U
+#EXTINF:-1 group-title="FIFA+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png", FIFA+ (Internacional)
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="FIFA+",FIFA+ (ES) (Internacional)
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="FIFA+",FIFA+ (ES) (Internacional)[Opc.2]
+https://87bb29fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZXNfRklGQVBsdXNTcGFuaXNoX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="FIFA+",FIFA+ (EN) (Internacional)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="FIFA+",FIFA+ (PT) (Internacional)
+https://c2657533.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleC1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="FIFA+",FIFA+ (DE) (Internacional)
+https://d94238f5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZGVfRklGQVBsdXNHZXJtYW5fSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="FIFA+",FIFA+ (FR) (Internacional)
+https://becfa822.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZnJfRklGQVBsdXNGcmVuY2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_%282025%29.svg/960px-FIFA%2B_%282025%29.svg.png" group-title="FIFA+",FIFA+ (IT) (Internacional)
+https://af7e4455.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctaXRfRklGQVBsdXNJdGFsaWFuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (México)
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports (MPV)[Opc.2](México)
+http://45.190.185.204:9000/play/a0la/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 (México)
+http://190.61.101.11:7050/play/a04v/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kXRFKVGz/unnamed.png" group-title="Deportes",Claro Sports 2 (MPV)[Opc.2](México)
+http://45.190.185.204:9000/play/a0lb/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports HD[Opc.1]
+http://8.243.126.131:8000/play/a0ih/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes",Tigo Sports HD(MPV)[Opc.2]
+http://45.190.185.204:9000/play/a0ep/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX
+http://190.61.101.11:7050/play/a09z/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX+
+http://190.61.101.11:7050/play/a09c/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX ESA HD
+http://190.61.101.11:7050/play/a0a9/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX ESA HD (MPV)[Opc.2]
+http://45.190.185.204:9000/play/a0oc/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HN HD
+http://190.61.101.11:7050/play/a0ad/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX CR
+http://190.61.101.11:7050/play/a0a7/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX CR (MPV)[Opc.2]
+http://45.190.185.204:9000/play/a0oa/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HD GUA
+http://190.61.101.11:7050/play/a0a4/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX HD GUA (MPV)[Opc.2]
+http://45.190.185.204:9000/play/a0ob/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",FOX NIC GUA
+http://190.61.101.11:7050/play/a0af/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes",FUTV (Costa Rica)
+http://190.61.101.11:7050/play/a05o/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes",FUTV [MPV](Costa Rica)
+http://45.190.185.204:9000/play/a0dk/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (Internacional)[1080p]
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (Internacional)[720p]
+https://d1rqgw5gocwo9i.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-stitched/6a4c908e-7980-4fcb-93e3-584472a5f9a3/3.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHXxNfTY/telemundo-deportes-ahora-horizontal-33e33301.png" group-title="Deportes", Telemundo Deportes Ahora (Internacional)
+https://d1rqgw5gocwo9i.cloudfront.net/10009/99951459/hls/master.m3u8?ads.xumo_channelId=99951459
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==",Azteca Deportes Network
+http://190.61.101.11:7050/play/a08l/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/MPS2aN2-BeVSwg==/2af69a6e-29ec-4543-842a-50650368d973/CHgQeDoFMS4xLjlAAQ==" group-title="Deportes", Azteca Deportes Network 3
+https://live-manifest.production-public.tubi.io/live/6bf131c3-d664-424c-93c9-49188a788980/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XJXyWhyH/bein-logo-af017869.png" group-title="Deportes", beIN Sports (Internacional)
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/9416579a-7851-4e11-9930-3916076984c2/0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (Internacional)
+https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)
+http://24.152.53.3:8090/play/a012/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)[Opc.2]
+http://190.61.101.11:7050/play/a04m/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (V3)
+http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://statics.goltelevision.com/backoffice/public/image/gs_thumb_landscape_GOLCLASSICS_WH_8bc86cec67.jpg", Gol Classics (Internacional)
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça [ES]
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mC5Kd92H/image-O.png" group-title="Deportes", TOP Barça [EN]
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wT1F2ffL/real-madrid-tv-es.png" group-title="Deportes", Real Madrid TV (España)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2fziU2B.png" group-title="Deportes",L1 MAX
+http://181.224.255.210:8001/play/a0sf/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/TYB56CRS/Diseno-sin-titulo(12).png" group-title="Deportes", LaLiga Inside (España)
+https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5ZaJw.png" group-title="Deportes",Canal del Futbol (Ecuador)
+https://1nyaler.streamhostingcdn.top/stream/53/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5ZaJw.png" group-title="Deportes",Canal del Futbol (Ecuador)[Opc.2]
+http://205.235.6.29:8000/play/a105/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wj5ZaJw.png" group-title="Deportes",Canal del Futbol (Ecuador)[Opc.3]
+http://205.235.6.29:8000/play/a0yn/index.m3u8?hls
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png", TyC Sports (Internacional)
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes",TyC Sports Play (Argentina)
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports (Argentina)
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports
+http://8.243.126.131:8000/play/a0o7/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports[Opc.2]
+http://205.235.6.29:8000/play/a0xa/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/960px-TNT_Sports_2021_logo.svg.png" group-title="Deportes",TNT Sports Premium
+http://205.235.6.29:8000/play/a104/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/laliga-hypermotion-logo-png_seeklogo-516143.png" group-title="Deportes",LaLiga Hypermotion v2 (España)
+https://1nyaler.streamhostingcdn.top/stream/152/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/1/laliga-hypermotion-logo-png_seeklogo-516143.png" group-title="Deportes",LaLiga Hypermotion (España)
+https://1nyaler.streamhostingcdn.top/stream/59/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A8CnA8g.png" group-title="Deportes",CBS Sports Network (USA)
+https://1nyaler.streamhostingcdn.top/stream/121/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Go (Reino Unido)
+https://1nyaler.streamhostingcdn.top/stream/76/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sky_Sport_1_DE_Logo_2020.svg/960px-Sky_Sport_1_DE_Logo_2020.svg.png" group-title="Deportes",Sky Sports LaLiga
+http://190.61.101.11:7050/play/a04g/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIplC7X.png" group-title="Deportes",Vix La Liga
+http://24.152.53.3:8090/play/a00v/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RIplC7X.png" group-title="Deportes",Vix La Liga (Opc. 2)
+http://24.152.53.3:8090/play/a01j/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 1]
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 2]
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 3]
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 4]
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 5]
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 6]
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 7]
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 8]
+http://190.117.20.37:8000/play/a08d/index.m3u
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 9]
+http://177.53.152.117:8000/play/a07d/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 10]
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/960px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="DSports",DSports [Opc. 11]
+http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX + PREMIER LIGA (MPV)
+http://190.61.101.11:7050/play/a08w/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX Sport Premiumm
+http://190.61.101.11:7050/play/a08u/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX Sports
+http://190.61.101.11:7050/play/a08t/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="FOX Sports",FOX Sports 2 (USA)
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oG7HzEf.png" group-title="FOX Sports",FOX Sports 2 (USA)[Opc. 2]
+http://190.61.101.11:7050/play/a08v/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="FOX Sports",Fox Sports 2
+http://24.152.53.3:8090/play/a011/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/960px-Fox_sports_3_logo.svg.png" group-title="FOX Sports",Fox Sports 2 (Opc. 2)
+http://24.152.53.3:8090/play/a01p/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX One (USA)
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="FOX Sports",Fox Soccer Plus (USA)
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Win Sports",Win Sports (Colombia)
+https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Win Sports",Win Sports
+http://190.217.66.92:8000/play/a0fh/index.m3u8u?hls
+#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports [Opc.2]
+http://astra.fibernetisp.com.co/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/DuSSrHV.png",Win Sports [Opc.3]
+http://8.243.126.131:8000/play/a025/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Win Sports",Win play (Colombia)
+https://1nyaler.streamhostingcdn.top/stream/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Win Sports",Win+
+http://190.217.66.92:8000/play/a0qs/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Win Sports",Win+[Opc.2]
+http://205.235.6.29:8000/play/a10e/index.m3u8?hls
+#EXTINF:-1 group-title="Win Sports" tvg-logo="https://i.imgur.com/0UN87vB.png",Win+[Opc.3]
+http://astra.fibernetisp.com.co/play/a0b2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png" group-title="DAZN",DAZN LaLiga v2 (España)
+https://1nyaler.streamhostingcdn.top/stream/160/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png" group-title="DAZN",DAZN LaLiga (España)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2Z2EmZF.png" group-title="DAZN",DAZN España
+https://1nyaler.streamhostingcdn.top/stream/92/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Movistar Plus+",Movistar Deportes
+http://8.243.126.131:8000/play/a052/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Movistar Plus+",Movistar Deportes[Opc.2]
+http://8.243.126.131:8000/play/a0oe/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Movistar Plus+",Movistar Deportes[Opc.3]
+http://205.235.6.29:8000/play/a0zd/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGQGDoi.png" group-title="Movistar Plus+",Movistar Plus+ (España)
+https://1nyaler.streamhostingcdn.top/stream/155/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FReScI8.png" group-title="Movistar Plus+",M+ Liga de Campeones (España)
+https://1nyaler.streamhostingcdn.top/stream/133/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FReScI8.png" group-title="Movistar Plus+",M+ Liga de Campeones v2 (España)
+https://1nyaler.streamhostingcdn.top/stream/173/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6P9U8O.png" group-title="Movistar Plus+",M+ LaLiga TV (España)
+https://1nyaler.streamhostingcdn.top/stream/172/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6P9U8O.png" group-title="Movistar Plus+",M+ LaLiga TV v2 (España)
+https://1nyaler.streamhostingcdn.top/stream/132/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8slBAa.png" group-title="Movistar Plus+",M+ Deportes (España)
+https://1nyaler.streamhostingcdn.top/stream/131/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u8slBAa.png" group-title="Movistar Plus+",M+ Deportes v2 (España)
+https://1nyaler.streamhostingcdn.top/stream/171/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium
+http://205.235.6.29:8000/play/a0pz/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium [Opc.2]
+http://205.235.6.29:8000/play/a0wl/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium (Argentina)
+https://1nyaler.streamhostingcdn.top/stream/104/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN (Colombia)
+https://1nyaler.streamhostingcdn.top/stream/99/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN (Perú)
+http://181.224.255.210:8001/play/a0sa/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD
+http://190.61.101.11:7050/play/a09k/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 HD
+http://190.61.101.11:7050/play/a05c/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="ESPN",ESPN 3 (México)
+https://1nyaler.streamhostingcdn.top/stream/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="ESPN",ESPN 3 HD
+http://190.61.101.11:7050/play/a05d/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD
+http://190.61.101.11:7050/play/a08p/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 5 HD
+http://190.61.101.11:7050/play/a06j/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 6 HD
+http://190.61.101.11:7050/play/a05e/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 7
+http://205.235.6.29:8000/play/a0zv/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN (Opc.2)
+http://190.217.66.92:8000/play/a0di/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 Latin (Opc.2)
+http://190.217.66.92:8000/play/a0dh/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 (Opc.2)
+http://190.217.66.92:8000/play/a0gd/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="ESPN",ESPN 3 HD (Opc.2)
+http://190.217.66.92:8000/play/a0q7/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD (Opc.2)
+http://190.217.66.92:8000/play/a0po/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 5 HD (Opc.2)
+http://190.217.66.92:8000/play/a0q4/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 6 (Opc.2)
+http://190.217.66.92:8000/play/a0e2/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN 7 (Opc.2)
+http://190.217.66.92:8000/play/a0e1/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN CO (Opc.2)
+http://190.217.66.92:8000/play/a0eg/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD (Opc.2)
+http://190.217.66.92:8000/play/a0pi/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium HD (Opc.2)
+http://190.217.66.92:8000/play/a0pj/index.m3u8u?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png" group-title="ESPN",ESPN Premium HD (Opc.3)
+http://181.224.255.210:8001/play/a0pt/index.m3u8?hls
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a0a9/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",ESPN 2 HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a0dp/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",ESPN 2 LATAM HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a076/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png",ESPN 3 HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a0jc/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",ESPN 4 HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a0it/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN 5 HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a0id/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN 6 HD (Opc.3)
+http://astra.fibernetisp.com.co/play/a0ae/index.m3u8
+#EXTINF:-1 group-title="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",ESPN 7 HD (Opc.3)
+http://45.170.130.224:8000/play/a027/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD - (Opc.4)
+http://181.224.255.210:8001/play/a0sd/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN2 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0oj/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN4 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0og/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN5 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0pr/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN6 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0eq/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN7 HD - (Opc.4)
+http://181.224.255.210:8001/play/a0m5/index.m3u8?hls
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN HD [Opc.5]
+http://45.170.130.224:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 HD [Opc.5]
+http://45.170.130.224:8000/play/a01p/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png" group-title="ESPN",ESPN 2 Latin HD [Opc.5]
+http://45.170.130.224:8000/play/a01x/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/960px-ESPN3_Logo.png" group-title="ESPN",ESPN 3 HD [Opc.5]
+http://45.170.130.224:8000/play/a03s/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD [Opc.5]
+http://45.170.130.224:8000/play/a01w/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 4 HD [Opc.6]
+http://45.170.130.224:8000/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="ESPN",ESPN 6 HD [Opc.6]
+http://45.170.130.224:8000/play/a028/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN Colombia HD [Opc.5]
+http://45.170.130.224:8000/play/a034/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN Extra HD [Opc.5]
+http://45.170.130.224:8000/play/a04l/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN App (USA)
+https://1nyaler.streamhostingcdn.top/stream/103/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="ESPN",ESPN+ (USA)
+https://1nyaler.streamhostingcdn.top/stream/105/index.m3u8
